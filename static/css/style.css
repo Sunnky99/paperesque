@@ -153,21 +153,21 @@ body.sticky-nav .navbar {
 
 .nav-bkg {
   color: white;
-  background: #b21b06;
+  background: #f3c13a;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #b21b06 80%, #040403 80%);
+  background: -webkit-linear-gradient(135deg, #f3c13a 80%, #0c3ec5 80%);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #b21b06 80%, #040403 80%);
+  background: linear-gradient(135deg, #f3c13a 80%, #0c3ec5 80%);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .nav-bkg-50 {
   color: white;
-  background: #b21b06;
+  background: #f3c13a;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #b21b06 50%, #040403 50%);
+  background: -webkit-linear-gradient(135deg, #f3c13a 50%, #0c3ec5 50%);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #b21b06 50%, #040403 50%);
+  background: linear-gradient(135deg, #f3c13a 50%, #0c3ec5 50%);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
@@ -523,11 +523,11 @@ h6:first-child {
 
   color: white;
   box-shadow: 0 5px 5px -5px #777777;
-  background: #b21b06;
+  background: #f3c13a;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #b21b06 85%, #040403 85%);
+  background: -webkit-linear-gradient(135deg, #f3c13a 85%, #0c3ec5 85%);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #b21b06 85%, #040403 85%);
+  background: linear-gradient(135deg, #f3c13a 85%, #0c3ec5 85%);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
